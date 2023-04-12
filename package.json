@@ -21,6 +21,7 @@
   "dependencies": {
     "@emotion/react": "^11.10.4",
     "@emotion/server": "^11.10.0",
+    "@figurine/core": "1.2.14-ssr-test.9",
     "@mantine/carousel": "6.0.2",
     "@mantine/core": "6.0.2",
     "@mantine/dates": "6.0.2",
@@ -33,6 +34,7 @@
     "@tabler/icons-react": "^2.4.0",
     "cookies-next": "^2.1.1",
     "dayjs": "^1.11.6",
+    "debugduck": "^1.0.6",
     "embla-carousel-react": "^7.0.3",
     "next": "13.2.4",
     "react": "18.2.0",
@@ -69,5 +71,6 @@
     "storybook-dark-mode": "^1.1.2",
     "ts-jest": "^27.1.4",
     "typescript": "4.8.4"
-  }
+  },
+  "packageManager": "yarn@3.5.0"
 }
