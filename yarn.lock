@@ -5262,13 +5262,13 @@ __metadata:
   linkType: hard
 
 "@types/react@npm:*, @types/react@npm:^18.0.34":
-  version: 18.0.34
-  resolution: "@types/react@npm:18.0.34"
+  version: 18.0.35
+  resolution: "@types/react@npm:18.0.35"
   dependencies:
     "@types/prop-types": "*"
     "@types/scheduler": "*"
     csstype: ^3.0.2
-  checksum: 60d2766e7644ec480075bbb154bf8fb8476089466b643662ef59964e27cae2d8c71fd9c717a4dfa9627c3e050fa2ae866d10d16f66b4509058d1bfe2a564b18c
+  checksum: e65670397216e037b150a509ec08189140b4c20b82b612ac00b2a7133202be2d1def1e7ee69617b2df06ab4c00c43c4ee23e84788ad661aea9664da2f27c518a
   languageName: node
   linkType: hard
 
@@ -7569,9 +7569,9 @@ __metadata:
   linkType: hard
 
 "caniuse-lite@npm:^1.0.0, caniuse-lite@npm:^1.0.30001109, caniuse-lite@npm:^1.0.30001406, caniuse-lite@npm:^1.0.30001449, caniuse-lite@npm:^1.0.30001464":
-  version: 1.0.30001477
-  resolution: "caniuse-lite@npm:1.0.30001477"
-  checksum: 22db0feccf43b0c16a46bb59b4e26ae05011f41c6947f1dd176d5056e0db58c3415a5ff7ee5a60903a6bda7311b71705d1d29fc4c43a8b8a1bdeef8c1d93f6a8
+  version: 1.0.30001478
+  resolution: "caniuse-lite@npm:1.0.30001478"
+  checksum: 27a370dcb32a6a35e186307aabc570da1cd0fccc849913665e7df6822a87286de99509b163304e0586c23c539a991717fb68ed84b85bbd21b2cb86475ae5ffb2
   languageName: node
   linkType: hard
 
@@ -8564,6 +8564,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"cssjanus@npm:^2.0.1":
+  version: 2.1.0
+  resolution: "cssjanus@npm:2.1.0"
+  checksum: 87d02bb8a54aeb046fab0c63e32bc73a6f776d33f07b1ead29cbdd65bc6f5078f28bae85653b0fcae528817e54a91fcc8cd9f4fcb98a3c4e229628d8a10439c3
+  languageName: node
+  linkType: hard
+
 "cssnano-preset-default@npm:^5.2.14":
   version: 5.2.14
   resolution: "cssnano-preset-default@npm:5.2.14"
@@ -8749,9 +8756,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"debugduck@npm:^1.0.6":
-  version: 1.0.6
-  resolution: "debugduck@npm:1.0.6"
+"debugduck@npm:^1.0.11":
+  version: 1.0.11
+  resolution: "debugduck@npm:1.0.11"
   dependencies:
     "@mantine/core": ^6.0.7
     "@testing-library/jest-dom": ^5.16.5
@@ -8762,11 +8769,12 @@ __metadata:
     react: ^18.2.0
     react-dom: ^18.2.0
     react-scripts: 5.0.1
+    stylis-plugin-rtl: ^2.1.1
     typescript: ^5.0.4
     web-vitals: ^2.1.4
   peerDependencies:
     react: ">=18"
-  checksum: 78367075199ed6efde30def9dec00b1486f637ee98ad06c9192dc8503cbdd80d48d2dec00c5cd0f34a7b4fa3545f9af427e9dbc189308057318ea6d55d97fa06
+  checksum: a5d042257ad1778d02a534a9cbc0ff2fa41f98e13115e7ccaab8311d73a5e794cb166d607cece3f9e2fbc8d6b4469abcd1c7e1c0dc89e77f6f3d4de0f2500f88
   languageName: node
   linkType: hard
 
@@ -9306,9 +9314,9 @@ __metadata:
   linkType: hard
 
 "electron-to-chromium@npm:^1.4.284":
-  version: 1.4.357
-  resolution: "electron-to-chromium@npm:1.4.357"
-  checksum: 7f801484e4f3b05d51bc0213aea7934003bedebbbba8049c03d9fb8a7c8b1bef2797bb237555928b1bf1924ad0fd8cc016e67b04590eb5c1b75d1424d47b6590
+  version: 1.4.359
+  resolution: "electron-to-chromium@npm:1.4.359"
+  checksum: ee8a6eae66a25200b6870dbd6b78d7c0cb2bbb873884d72141871f6e4080955135c16dcf46138158fc5aba5a5fa9177dc0aa37a7f0aaae54bb65305264f72c51
   languageName: node
   linkType: hard
 
@@ -14107,7 +14115,7 @@ __metadata:
     babel-loader: ^8.2.4
     cookies-next: ^2.1.1
     dayjs: ^1.11.6
-    debugduck: ^1.0.6
+    debugduck: ^1.0.11
     embla-carousel-react: ^7.0.3
     eslint: ^8.18.0
     eslint-config-airbnb: 19.0.4
@@ -14127,6 +14135,7 @@ __metadata:
     react-dom: 18.2.0
     storybook-addon-turbo-build: ^1.1.0
     storybook-dark-mode: ^1.1.2
+    stylis-plugin-rtl: ^2.1.1
     ts-jest: ^27.1.4
     typescript: 4.8.4
   languageName: unknown
@@ -14544,9 +14553,9 @@ __metadata:
   linkType: hard
 
 "minipass@npm:^4.0.0":
-  version: 4.2.7
-  resolution: "minipass@npm:4.2.7"
-  checksum: 55669510e5ff681889ba30b3bebe7dc70eac687197c9fe119b4d6eee36d96755b240f11b75e81edc2b6f8ce8338154a26896fb0555ae34b4fa4c607d31557ee9
+  version: 4.2.8
+  resolution: "minipass@npm:4.2.8"
+  checksum: 7f4914d5295a9a30807cae5227a37a926e6d910c03f315930fde52332cf0575dfbc20295318f91f0baf0e6bb11a6f668e30cde8027dea7a11b9d159867a3c830
   languageName: node
   linkType: hard
 
@@ -19340,6 +19349,17 @@ __metadata:
   peerDependencies:
     postcss: ^8.2.15
   checksum: 11175366ef52de65bf06cefba0ddc9db286dc3a1451fd2989e74c6ea47091a02329a4bf6ce10b1a36950056927b6bbbe47c5ab3a1f4c7032df932d010fbde5a2
+  languageName: node
+  linkType: hard
+
+"stylis-plugin-rtl@npm:^2.1.1":
+  version: 2.1.1
+  resolution: "stylis-plugin-rtl@npm:2.1.1"
+  dependencies:
+    cssjanus: ^2.0.1
+  peerDependencies:
+    stylis: 4.x
+  checksum: 262d2c762216556ed3dc8218ea5929ae24b4b0fae020eb41c217911e6628374009d1e1b24256ed6a2f39cbbf302a877f2efe912b628c71dd15fde90866ca54ca
   languageName: node
   linkType: hard
 

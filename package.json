@@ -34,11 +34,12 @@
     "@tabler/icons-react": "^2.4.0",
     "cookies-next": "^2.1.1",
     "dayjs": "^1.11.6",
-    "debugduck": "^1.0.6",
+    "debugduck": "^1.0.11",
     "embla-carousel-react": "^7.0.3",
     "next": "13.2.4",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "stylis-plugin-rtl": "^2.1.1"
   },
   "devDependencies": {
     "@babel/core": "^7.17.8",
